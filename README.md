@@ -8,7 +8,7 @@ This layer depends on the additional layer:
 meta-openembedded: git://git.openembedded.org/meta-openembedded
 
 Tested with core-image-base.
-
+tester : rahul
 Maintainers:
 
 * Nicolas Aguirre <aguirre.nicolas@gmail.com>
